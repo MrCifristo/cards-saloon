@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Custom classes */
+@layer utilities {
+  .bg-cyber-darker {
+    background-color: #1a1a2e;
+  }
+  
+  .text-cyber-accent {
+    color: #00f3ff;
+  }
+}
